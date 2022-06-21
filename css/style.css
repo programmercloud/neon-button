@@ -75,14 +75,6 @@ button:hover::before {
   initial-value: 130deg;
   inherits: false;
 }
-@keyframes spin {
-  0% {
-    --rotate: 0deg;
-  }
-  100% {
-    --rotate: 360deg;
-  }
-}
 
 @keyframes fade {
   0% {
